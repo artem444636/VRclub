@@ -480,7 +480,7 @@ a {
   color: rgba(255, 255, 255, 1);
 }
 .table-cell-split {
-  background: url(/assets/img/top-right.svg), url(/assets/img/bottom-left.png);
+  background: url(./assets/img/top-right.svg), url(./assets/img/bottom-left.png);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: top -2px right -2px, bottom -2px left -2px;
